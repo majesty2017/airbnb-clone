@@ -11,6 +11,9 @@ export { default as Button } from './Button'
 export { default as RegisterModal } from './modals/RegisterModal'
 export { default as LoginModal } from './modals/LoginModal'
 export { default as Heading } from './Heading'
+export { default as Categories } from './navbar/Categories'
+export { default as CategoryBox } from './CategoryBox'
+
 
 export { default as Input } from './inputs/Input'
 
